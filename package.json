@@ -42,7 +42,7 @@
     "@babel/preset-env": "^7.7.6",
     "@babel/runtime": "^7.7.6",
     "deep-assign": "^3.0.0",
-    "form-data": "^3.0.0",
+    "form-data": "^4.0.6",
     "invariant": "^2.2.4",
     "superagent": "^5.1.2",
     "yarn": "^1.12.1"
@@ -76,7 +76,7 @@
     "superagent-mocker": "^0.5.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-middleware": "^7.4.5"
+    "webpack-dev-middleware": "^8.6.3"
   },
   "repository": {
     "type": "git",
